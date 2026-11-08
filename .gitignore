@@ -1,0 +1,5 @@
+_t*.sqlite
+_t*.xlsx
+demo_src*/
+__pycache__/
+*.log
